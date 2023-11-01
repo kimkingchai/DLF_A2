@@ -1,0 +1,127 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{arzar2019butterfly}
+Nur Nabila~Kamaron Arzar, Nurbaity Sabri, Nur Farahin~Mohd Johari, Anis~Amilah Shari, Mohd Rahmat~Mohd Noordin, and Shafaf Ibrahim.
+\newblock Butterfly species identification using convolutional neural network (cnn).
+\newblock In {\em 2019 IEEE international conference on automatic control and intelligent systems (I2CACIS)}, pages 221--224. IEEE, 2019.
+
+\bibitem{bazi2021vision}
+Yakoub Bazi, Laila Bashmal, Mohamad M~Al Rahhal, Reham~Al Dayil, and Naif~Al Ajlan.
+\newblock Vision transformers for remote sensing image classification.
+\newblock {\em Remote Sensing}, 13(3):516, 2021.
+
+\bibitem{chang2017fine}
+Qi Chang, Hui Qu, Pengxiang Wu, and Jingru Yi.
+\newblock Fine-grained butterfly and moth classification using deep convolutional neural networks.
+\newblock {\em Rutgers University: New Brunswick, NJ, USA}, 2017.
+
+\bibitem{ghazanfar2016butterflies}
+Mobeen Ghazanfar, Muhammad~Faheem Malik, Mubashar Hussain, Razia Iqbal, and Misbah Younas.
+\newblock Butterflies and their contribution in ecosystem: A review.
+\newblock {\em Journal of Entomology and Zoology Studies}, 4(2):115--118, 2016.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and pattern recognition}, pages 770--778, 2016.
+
+\bibitem{hernandez2014automatic}
+A Hern{\'a}ndez-Serna and LF Jim{\'e}nez-Segura.
+\newblock Automatic identification of species with neural networks. peerj 2, e563, 2014.
+
+\bibitem{howard2020fastai}
+Jeremy Howard and Sylvain Gugger.
+\newblock Fastai: A layered api for deep learning.
+\newblock {\em Information}, 11(2):108, 2020.
+
+\bibitem{ioffe2015batch}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing internal covariate shift.
+\newblock In {\em International conference on machine learning}, pages 448--456. pmlr, 2015.
+
+\bibitem{kang2014identification}
+Seung-Ho Kang, Jung-Hee Cho, and Sang-Hee Lee.
+\newblock Identification of butterfly based on their shapes when viewed from different angles using an artificial neural network.
+\newblock {\em Journal of Asia-Pacific Entomology}, 17(2):143--149, 2014.
+
+\bibitem{kaya2014evaluation}
+Y{\i}lmaz Kaya, Lokman Kayci, Ramazan Tekin, and {\"O} Faruk~Ertu{\u{g}}rul.
+\newblock Evaluation of texture features for automatic detecting butterfly species using extreme learning machine.
+\newblock {\em Journal of Experimental \& Theoretical Artificial Intelligence}, 26(2):267--281, 2014.
+
+\bibitem{kaya2015automatic}
+Y{\i}lmaz Kaya, Lokman Kayci, and Murat Uyar.
+\newblock Automatic identification of butterfly species based on local binary patterns and artificial neural network.
+\newblock {\em Applied Soft Computing}, 28:132--137, 2015.
+
+\bibitem{kingma2014adam}
+Diederik~P Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em arXiv preprint arXiv:1412.6980}, 2014.
+
+\bibitem{krizhevsky2012imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in neural information processing systems}, 25, 2012.
+
+\bibitem{lecun2015deep}
+Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+\newblock Deep learning.
+\newblock {\em nature}, 521(7553):436--444, 2015.
+
+\bibitem{o2020deep}
+Niall O’Mahony, Sean Campbell, Anderson Carvalho, Suman Harapanahalli, Gustavo~Velasco Hernandez, Lenka Krpalkova, Daniel Riordan, and Joseph Walsh.
+\newblock Deep learning vs. traditional computer vision.
+\newblock In {\em Advances in Computer Vision: Proceedings of the 2019 Computer Vision Conference (CVC), Volume 1 1}, pages 128--144. Springer, 2020.
+
+\bibitem{paszke2019pytorch}
+Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, et~al.
+\newblock Pytorch: An imperative style, high-performance deep learning library.
+\newblock {\em Advances in neural information processing systems}, 32, 2019.
+
+\bibitem{rashid2020sustainable}
+Muhammad Rashid, Muhammad~Attique Khan, Majed Alhaisoni, Shui-Hua Wang, Syed~Rameez Naqvi, Amjad Rehman, and Tanzila Saba.
+\newblock A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection.
+\newblock {\em Sustainability}, 12(12):5037, 2020.
+
+\bibitem{scherer2010evaluation}
+Dominik Scherer, Andreas M{\"u}ller, and Sven Behnke.
+\newblock Evaluation of pooling operations in convolutional architectures for object recognition.
+\newblock In {\em International conference on artificial neural networks}, pages 92--101. Springer, 2010.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{wang2020butterfly}
+Wen-Ling Wang, Daniel~O Suman, Hui-Hong Zhang, Zhen-Bang Xu, Fang-Zhou Ma, and Shao-Ji Hu.
+\newblock Butterfly conservation in china: from science to action.
+\newblock {\em Insects}, 11(10):661, 2020.
+
+\bibitem{wu2021vision}
+Jianfang Wu, Ruo Hu, Zhenghong Xiao, Jiaxu Chen, and Jingwei Liu.
+\newblock Vision transformer-based recognition of diabetic retinopathy grade.
+\newblock {\em Medical Physics}, 48(12):7850--7863, 2021.
+
+\bibitem{xi2022multiple}
+Tianyu Xi, Jiangning Wang, Yan Han, Congtian Lin, and Liqiang Ji.
+\newblock Multiple butterfly recognition based on deep residual learning and image analysis.
+\newblock {\em Entomological Research}, 52(1):44--53, 2022.
+
+\bibitem{xie2018automatic}
+Juanying Xie, Qi Hou, Yinghuan Shi, Lv Peng, Liping Jing, Fuzhen Zhuang, Junping Zhang, Xiaoyang Tang, and Shengquan Xu.
+\newblock The automatic identification of butterfly species.
+\newblock {\em arXiv preprint arXiv:1803.06626}, 2018.
+
+\bibitem{zhang2018improved}
+Zijun Zhang.
+\newblock Improved adam optimizer for deep neural networks.
+\newblock In {\em 2018 IEEE/ACM 26th international symposium on quality of service (IWQoS)}, pages 1--2. Ieee, 2018.
+
+\bibitem{zhu2019towards}
+Lili Zhu and Petros Spachos.
+\newblock Towards image classification with machine learning methodologies for smartphones.
+\newblock {\em Machine Learning and Knowledge Extraction}, 1(4):1039--1057, 2019.
+
+\end{thebibliography}

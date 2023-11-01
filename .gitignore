@@ -1,6 +1,9 @@
 .vscode
 .DS_Store
 
-dog-emotions-prediction
+butterfly-image-classification
+models
 
 *.zip
+*.csv
+*.png
